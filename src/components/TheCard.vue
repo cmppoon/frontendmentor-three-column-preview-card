@@ -1,7 +1,7 @@
 <script setup></script>
 
 <template>
-  <div class="flex flex-col items-start justify-between gap-y-8 sm:gap-y-20 p-10 sm:p-8">
+  <div class="flex flex-col items-start justify-between gap-y-8 sm:gap-y-20 p-10 sm:p-12">
     <div class="flex flex-col gap-y-8">
       <slot name="icon"></slot>
       <h1

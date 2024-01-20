@@ -6,7 +6,7 @@ import TheCard from "./components/TheCard.vue";
 </script>
 
 <template>
-  <main class="mx-auto flex flex-col p-8 max-w-md sm:max-w-4xl sm:flex-row ">
+  <main class="mx-auto flex flex-col p-8 max-w-md sm:max-w-5xl sm:flex-row ">
     <TheCard class="bg-bright-orange text-bright-orange">
       <template #icon><SedansIcon></SedansIcon></template>
       <template #header> Sedans </template>
